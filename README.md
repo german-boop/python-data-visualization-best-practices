@@ -1,11 +1,18 @@
 # python-data-visualization-best-practices
 Clean and minimal Python data visualization project following PEP 8 and best practices, designed for code review and feedback.
 
+![ccb03705230c766b35b303ffbe15cc65](https://github.com/user-attachments/assets/a70d92d6-d74c-479b-a591-e0a420ad304e)
+
+
+
 # 📊 Random Data Visualization
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+
+
 
 A professional Python package for generating and visualizing random data with Matplotlib. Perfect for data science demonstrations, teaching statistics, or creating sample visualizations for reports and presentations.
 
